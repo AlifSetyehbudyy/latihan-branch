@@ -1,2 +1,9 @@
 # latihan-branch
-<h1><strong>INI ADALAH REPOSITORY UNTUK LATIHAN UNTUK MEMBUAT BRANCH YANG BARU DI GITHUB</strong></h1>
+Hai Mohon bantuannya untuk Review beberapa pekerjaan yang telah dilakukan:
+--
+- Membuat Halaman Fitur Pencarian
+- Menambahkan cache hasil pencarian
+- menambahkan place Holder saat memuat data
+
+
+  Terima Kasih
